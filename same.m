@@ -1,3 +1,4 @@
+
 function a=same(msg,new_msg)
 teap=0;
 [N,M]=size(msg)
